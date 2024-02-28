@@ -1,0 +1,32 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+body {
+  background-color: blueviolet;
+  color:pink ;
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+}
+
+table, td {
+  border: 1px solid black;
+}
+/* 
+header {
+  background-color: teal;
+}
+
+h1 {
+  font-size: 20px
+}
+
+intro {
+  color: black;
+} */
+
+.header {
+  background-color: yellow;
+  color:teal
+}
